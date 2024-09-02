@@ -1,3 +1,3 @@
 # odin-recipes
 
-TOP HTML Project: Recipes
+The Odin Project HTML section overview project.
